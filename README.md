@@ -4,6 +4,8 @@ A TropiSCO-inspired forest loss monitoring application built in Google Earth Eng
 
 The application provides an interactive interface for monitoring annual and monthly forest loss dynamics across user-defined Areas of Interest (AOIs), with support for administrative boundaries, forest reserves, watersheds, and global country boundaries.
 
+Link to dashboard: https://ee-cheruiyotkb.projects.earthengine.app/view/tropisco-forest-loss-explorer
+
 ---
 
 ## Overview
